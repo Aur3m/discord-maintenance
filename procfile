@@ -1,1 +1,1 @@
-worker: python Maintenance.py
+worker: python3 Maintenance.py
