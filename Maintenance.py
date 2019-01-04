@@ -1,7 +1,7 @@
 
 import discord
 
-token = ""
+token = "process.enn.BOT_TOKEN"
 
 client = discord.Client()
 
