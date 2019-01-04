@@ -1,7 +1,7 @@
 
 import discord
 
-token = "S3Connection(os.environ['S3_KEY'])"
+token = ""
 
 client = discord.Client()
 
