@@ -1,7 +1,7 @@
 
 import discord
 
-token = "NTIwOTI5MzMxNTczMTYyMDA0.Du1FEg.vDq-UxaLsYUZWWgKViMbmM55qMo"
+token = ""
 
 client = discord.Client()
 
